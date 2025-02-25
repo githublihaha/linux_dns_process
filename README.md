@@ -1,5 +1,5 @@
 # linux_dns_process
-linux平台监听发起DNS请求的进程，打印相关的**进程树**，支持指定监听的域名。
+linux平台监听定位发起DNS请求的进程，打印相关的**进程树**，支持指定监听的域名。
 
 go语言+cilium(bpf2go)框架+ebpf技术
 
